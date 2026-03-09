@@ -1,5 +1,18 @@
 # 💫 About Me:
-Hi! I'm Arden Pratama Maskuri, a Software Engineering student at SMK Taruna Bhakti 💻
+Hi 👋 I'm Arden Pratama Maskuri
+
+I’m a passionate **Web Developer** and **Mobile Developer** who enjoys building modern, efficient, and user-friendly digital products. I love turning ideas into real applications that are functional, scalable, and impactful.
+
+### 🚀 About Me
+
+* 💻 Focused on **Web Development** and **Mobile Application Development**
+* 🔧 Enjoy working with modern technologies, frameworks, and tools
+* 📚 Constantly learning and improving my programming and problem-solving skills
+* 🌱 Passionate about building useful and meaningful software
+
+### 🎯 Goal
+
+To grow as a professional developer while creating innovative digital solutions that make a real impact 💻
 
 
 ## 🌐 Socials:
