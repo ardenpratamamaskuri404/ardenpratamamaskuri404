@@ -22,6 +22,7 @@ Hi! I'm Arden Pratama Maskuri, a Software Engineering student at SMK Taruna Bhak
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ardenpratamamaskuri404&icon=2&color=0)](https://visitcount.itsvg.in)
 
