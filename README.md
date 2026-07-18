@@ -12,11 +12,6 @@ Hi! I'm **Arden Pratama Maskuri**, a Software Engineering student at **SMK Tarun
 
 My passion lies in bridging the gap between intricate backend logic and intuitive frontend design. Through hands-on experience, I have successfully built comprehensive full-stack applications—ranging from real-time public complaint systems with interactive maps to seamless cross-platform management platforms. I don't just write syntax; I engineer scalable solutions that bring tangible value to users. Constantly pushing my boundaries, I strive to transform complex challenges into functional, maintainable, and impactful digital products.
 
-* **Architectural Thinking:** Building features is standard; designing scalable, end-to-end systems is the ultimate goal. I treat every bug as a puzzle and every architecture as a stepping stone to mastery.
-* **Relentless Engineering:** Deeply immersed in the JavaScript and TypeScript ecosystem, while actively exploring Go (Golang) to construct robust, high-performance backend services.
-* **Real-World Impact:** Focused on translating complex business logic into seamless web and cross-platform mobile experiences, powered by efficient relational databases.
-* **Grounded Progression:** Proudly sharpening my foundation in Depok, Indonesia, and always welcoming feedback, collaboration, and continuous mentorship.
-
 **Core Arsenal**
 * **Frontend:** React, Next.js, React Native (Expo), Tailwind CSS
 * **Backend:** Node.js, Express.js, Prisma ORM, RESTful APIs
