@@ -1,11 +1,9 @@
 <div align="center">
- <img width="736" height="414" alt="anime3" src="https://github.com/user-attachments/assets/e66ff74f-3986-4393-b24b-8b816368137e" />
+  <img width="736" height="414" alt="Banner Anime" src="https://github.com/user-attachments/assets/e66ff74f-3986-4393-b24b-8b816368137e" />
   <br>
-  <h2>
-    <marquee scrollamount="6" width="80%" style="color: #3B82F6;">
-      Engineering the Future, Always Evolving.
-    </marquee>
-  </h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=Engineering+the+Future%2C+Always+Evolving.;Building+Scalable+Solutions.;Mastering+One+Line+at+a+Time." alt="Typing SVG" />
+  </a>
 </div>
 
 ---
