@@ -1,22 +1,23 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a4/09/a6/a409a63b0ba1f2150993952dc684346d.gif" width="100%" alt="Banner Aesthetic">
+  <video src="video-pixel.mp4" autoplay loop muted playsinline width="100%"></video>
   <br>
   <h2>Engineering the Future, Always Evolving.</h2>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-Hi! I'm **Arden Pratama Maskuri**, a Software Engineering student at SMK Taruna Bhakti and a passionate **Full-Stack Developer**. 
+**💫 About Me:**
 
-I believe that writing code is more than just making things work; it's about solving real-world problems with elegant, scalable, and maintainable architecture. Even though I am still growing in this vast tech landscape, I take pride in delivering production-ready applications—from integrating payment gateways to designing real-time cross-platform systems.
+Hi! I'm **Arden Pratama Maskuri**, a Software Engineering student at **SMK Taruna Bhakti**. I believe that in the world of technology, we are all lifelong students. Although I am still at the beginning of my journey and have a lot more to learn, I am deeply committed to mastering the craft of software development one line of code at a time.
 
-* 🧠 **Engineering Mindset:** I don't just build features; I architect end-to-end solutions. Every bug is a puzzle, and every project is a stepping stone to mastery.
-* 🚀 **Continuous Growth:** Currently diving deep into the JavaScript/TypeScript ecosystem and exploring Go (Golang) to build high-performance backend services.
-* 🛠️ **System Builder:** Experienced in translating complex business logic into intuitive web (Next.js/React) and mobile (React Native) experiences, backed by robust relational databases (PostgreSQL/MySQL).
-* 🌱 **Humble Beginnings:** Proudly building my foundation in Depok, Indonesia, and always eager for feedback, collaboration, and mentorship.
+My passion lies in bridging the gap between intricate backend logic and intuitive frontend design. Through hands-on experience, I have successfully built comprehensive full-stack applications—ranging from real-time public complaint systems with interactive maps to seamless cross-platform management platforms. I don't just write syntax; I engineer scalable solutions that bring tangible value to users. Constantly pushing my boundaries, I strive to transform complex challenges into functional, maintainable, and impactful digital products.
 
-### ⚡ Core Arsenal
+* **Architectural Thinking:** Building features is standard; designing scalable, end-to-end systems is the ultimate goal. I treat every bug as a puzzle and every architecture as a stepping stone to mastery.
+* **Relentless Engineering:** Deeply immersed in the JavaScript and TypeScript ecosystem, while actively exploring Go (Golang) to construct robust, high-performance backend services.
+* **Real-World Impact:** Focused on translating complex business logic into seamless web and cross-platform mobile experiences, powered by efficient relational databases.
+* **Grounded Progression:** Proudly sharpening my foundation in Depok, Indonesia, and always welcoming feedback, collaboration, and continuous mentorship.
+
+**Core Arsenal**
 * **Frontend:** React, Next.js, React Native (Expo), Tailwind CSS
 * **Backend:** Node.js, Express.js, Prisma ORM, RESTful APIs
 * **Database & Cloud:** MySQL, PostgreSQL, Supabase
@@ -25,10 +26,15 @@ I believe that writing code is more than just making things work; it's about sol
 <br>
 
 <div align="center">
-  <b>Let's build something impactful together!</b><br>
-  <a href="mailto:pratamaardem24@gmail.com">Email Me</a> • <a href="https://linkedin.com/in/arden-pratama-maskuri">LinkedIn</a>
+  <b>Let's build something impactful together!</b><br><br>
+  <a href="mailto:pratamaardem24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/arden-pratama-maskuri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dnprtmmskri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arden-pratama-maskuri-4049263b3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@dennothingmore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardenpratamam2008@gmail.com) 
