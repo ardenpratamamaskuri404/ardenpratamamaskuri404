@@ -94,7 +94,7 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true" />
 
 </td>
 
@@ -102,7 +102,7 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=ardenpratamamaskuri404&theme=dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ardenpratamamaskuri404&theme=dark&hide_border=true" />
 
 </td>
 </tr>
@@ -112,15 +112,15 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 ### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true" />
 
 </td>
 
 <td align="center">
 
-### 🚀 Development Insights
+### 📂 Repositories by Language
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardenpratamamaskuri404&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardenpratamamaskuri404&theme=github_dark" />
 
 </td>
 </tr>
