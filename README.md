@@ -104,3 +104,7 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 <p align="center">
   <img src="https://raw.githubusercontent.com/ardenpratamamaskuri404/ardenpratamamaskuri404/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C6FB,100:005BEA&section=footer"/>
+</p>
