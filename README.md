@@ -88,25 +88,33 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<table>
+<tr>
+<td>
 
-<img width="57%" src="https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark"/>
+![](https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-<img width="38%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark"/>
+</td>
+<td>
 
-</p>
+![](https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=false)
 
-<p align="center">
+</td>
+</tr>
 
-<img width="96%" src="https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark"/>
+<tr>
+<td>
 
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
+</td>
+<td>
 
-<img width="96%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-</p>
+</td>
+</tr>
+</table>
 
 ## 🐍 Contribution Snake
 
