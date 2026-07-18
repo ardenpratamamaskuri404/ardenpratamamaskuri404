@@ -1,8 +1,17 @@
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/126c3096-70e2-410a-a0fb-284db12364b8" autoplay loop muted playsinline width="100%"></video>
-  <br>
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW4xb2E4dHVtOHRheDh0a2gyODVhbHRlY3Fxc29nc2hxYzZ5cHpiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vXyIMuWbGTMtO/giphy.gif"
+    alt="Anime GIF"
+    width="100%"
+  />
+
+  <br><br>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=Engineering+the+Future%2C+Always+Evolving.;Building+Scalable+Solutions.;Mastering+One+Line+at+a+Time." alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=Engineering+the+Future%2C+Always+Evolving.;Building+Scalable+Solutions.;Mastering+One+Line+at+a+Time."
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
