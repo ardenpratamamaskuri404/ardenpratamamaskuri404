@@ -126,41 +126,6 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 </tr>
 </table>
 
-## 🏆 Featured Projects
-
-### 🛒 TokoKita E-Commerce
-> Modern e-commerce web application with responsive UI and shopping features.
-
-**Tech Stack:** HTML • JavaScript • Tailwind CSS
-
----
-
-### 🚔 LaporinAja
-> Public complaint management platform with interactive maps and real-time updates.
-
-**Tech Stack:** React • Express.js • Prisma • MySQL
-
----
-
-### 🎓 E-BK STARBHAK
-> Digital school counseling management system for students and counselors.
-
-**Tech Stack:** Next.js • NextAuth • MySQL
-
----
-
-### 🏥 OceanCare
-> Modern clinic registration system with real-time notifications.
-
-**Tech Stack:** React • Express.js • Prisma
-
----
-
-### ☕ Dven Coffee
-> Cross-platform café management system with mobile ordering and Supabase integration.
-
-**Tech Stack:** React Native • Expo • Supabase
-
 ## 🐍 Contribution Snake
 
 <p align="center">
