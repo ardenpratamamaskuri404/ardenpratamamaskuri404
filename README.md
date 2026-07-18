@@ -92,11 +92,15 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 <tr>
 <td align="center">
 
+### 📈 GitHub Stats
+
 <img src="https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true"/>
 
 </td>
 
 <td align="center">
+
+### 🔥 Contribution Streak
 
 <img src="https://streak-stats.demolab.com?user=ardenpratamamaskuri404&theme=dark&hide_border=true"/>
 
@@ -106,13 +110,17 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 <tr>
 <td align="center">
 
+### 💻 Most Used Languages
+
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardenpratamamaskuri404&theme=github_dark"/>
+### 🚀 Development Insights
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardenpratamamaskuri404&theme=github_dark"/>
 
 </td>
 </tr>
