@@ -96,7 +96,6 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
   <a href="mailto:pratamaardem24@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ardenpratamamaskuri404&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ardenpratamamaskuri404&theme=tokyonight&hide_border=false)<br/>
