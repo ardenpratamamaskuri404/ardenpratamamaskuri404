@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/e66ff74f-3986-4393-b24b-8b816368137e" autoplay loop muted playsinline width="100%"></video>
+  <img src="https://pin.it/4HcVq8RQc" width="100%" alt="Banner Aesthetic">
   <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=Engineering+the+Future%2C+Always+Evolving.;Building+Scalable+Solutions.;Mastering+One+Line+at+a+Time." alt="Typing SVG" />
