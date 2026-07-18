@@ -1,18 +1,33 @@
-# 💫 About Me:
-Hi 👋 I'm Arden Pratama Maskuri
+<div align="center">
+  <img src="https://i.pinimg.com/originals/a4/09/a6/a409a63b0ba1f2150993952dc684346d.gif" width="100%" alt="Banner Aesthetic">
+  <br>
+  <h2>Engineering the Future, Always Evolving.</h2>
+</div>
 
-I’m a passionate **Web Developer** and **Mobile Developer** who enjoys building modern, efficient, and user-friendly digital products. I love turning ideas into real applications that are functional, scalable, and impactful.
+---
 
-### 🚀 About Me
+### 👨‍💻 About Me
+Hi! I'm **Arden Pratama Maskuri**, a Software Engineering student at SMK Taruna Bhakti and a passionate **Full-Stack Developer**. 
 
-* 💻 Focused on **Web Development** and **Mobile Application Development**
-* 🔧 Enjoy working with modern technologies, frameworks, and tools
-* 📚 Constantly learning and improving my programming and problem-solving skills
-* 🌱 Passionate about building useful and meaningful software
+I believe that writing code is more than just making things work; it's about solving real-world problems with elegant, scalable, and maintainable architecture. Even though I am still growing in this vast tech landscape, I take pride in delivering production-ready applications—from integrating payment gateways to designing real-time cross-platform systems.
 
-### 🎯 Goal
+* 🧠 **Engineering Mindset:** I don't just build features; I architect end-to-end solutions. Every bug is a puzzle, and every project is a stepping stone to mastery.
+* 🚀 **Continuous Growth:** Currently diving deep into the JavaScript/TypeScript ecosystem and exploring Go (Golang) to build high-performance backend services.
+* 🛠️ **System Builder:** Experienced in translating complex business logic into intuitive web (Next.js/React) and mobile (React Native) experiences, backed by robust relational databases (PostgreSQL/MySQL).
+* 🌱 **Humble Beginnings:** Proudly building my foundation in Depok, Indonesia, and always eager for feedback, collaboration, and mentorship.
 
-To grow as a professional developer while creating innovative digital solutions that make a real impact 💻
+### ⚡ Core Arsenal
+* **Frontend:** React, Next.js, React Native (Expo), Tailwind CSS
+* **Backend:** Node.js, Express.js, Prisma ORM, RESTful APIs
+* **Database & Cloud:** MySQL, PostgreSQL, Supabase
+* **Languages:** TypeScript, JavaScript, Go, PHP
+
+<br>
+
+<div align="center">
+  <b>Let's build something impactful together!</b><br>
+  <a href="mailto:pratamaardem24@gmail.com">Email Me</a> • <a href="https://linkedin.com/in/arden-pratama-maskuri">LinkedIn</a>
+</div>
 
 
 ## 🌐 Socials:
