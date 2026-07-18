@@ -1,5 +1,6 @@
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/b27f5803-751b-4c91-9a41-39bb9e27b398" autoplay loop muted playsinline width="100%"></video>
+  <img src="<img width="736" height="414" alt="anime3" src="https://github.com/user-attachments/assets/8bf569e2-1c06-4900-b0bd-ec3093db715d" />
+" width="100%" alt="Banner Aesthetic">
   <br>
   <h2>Engineering the Future, Always Evolving.</h2>
 </div>
@@ -22,7 +23,6 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 * **Backend:** Node.js, Express.js, Prisma ORM, RESTful APIs
 * **Database & Cloud:** MySQL, PostgreSQL, Supabase
 * **Languages:** TypeScript, JavaScript, Go, PHP
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dnprtmmskri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arden-pratama-maskuri-4049263b3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@dennothingmore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardenpratamam2008@gmail.com) 
