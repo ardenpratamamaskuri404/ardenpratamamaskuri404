@@ -23,18 +23,6 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 * **Database & Cloud:** MySQL, PostgreSQL, Supabase
 * **Languages:** TypeScript, JavaScript, Go, PHP
 
-<br>
-
-<div align="center">
-  <b>Let's build something impactful together!</b><br><br>
-  <a href="mailto:pratamaardem24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/arden-pratama-maskuri">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dnprtmmskri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arden-pratama-maskuri-4049263b3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@dennothingmore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardenpratamam2008@gmail.com) 
