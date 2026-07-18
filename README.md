@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="<img width="736" height="414" alt="anime3" src="https://github.com/user-attachments/assets/8bf569e2-1c06-4900-b0bd-ec3093db715d" />
-" width="100%" alt="Banner Aesthetic">
+ <img width="736" height="414" alt="anime3" src="https://github.com/user-attachments/assets/e66ff74f-3986-4393-b24b-8b816368137e" />
   <br>
-  <h2>Engineering the Future, Always Evolving.</h2>
+  <h2>
+    <marquee scrollamount="6" width="80%" style="color: #3B82F6;">
+      Engineering the Future, Always Evolving.
+    </marquee>
+  </h2>
 </div>
 
 ---
