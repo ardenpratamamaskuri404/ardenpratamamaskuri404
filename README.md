@@ -96,9 +96,6 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 ![](https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ardenpratamamaskuri404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
@@ -107,3 +104,8 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardenpratamamaskuri404&theme=github-dark&hide_border=true&radius=16" width="100%"/>
+</p>
