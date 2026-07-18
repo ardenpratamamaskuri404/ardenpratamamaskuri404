@@ -98,9 +98,3 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardenpratamamaskuri404&theme=github-dark&hide_border=true&radius=16" width="100%"/>
-</p>
