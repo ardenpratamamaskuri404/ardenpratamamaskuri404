@@ -88,28 +88,31 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
 <tr>
-<td>
+<td align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<img src="https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true"/>
 
 </td>
-<td>
 
-![](https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=false)
+<td align="center">
+
+<img src="https://streak-stats.demolab.com?user=ardenpratamamaskuri404&theme=dark&hide_border=true"/>
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td align="center">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true"/>
 
 </td>
-<td>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<td align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardenpratamamaskuri404&theme=github_dark"/>
 
 </td>
 </tr>
