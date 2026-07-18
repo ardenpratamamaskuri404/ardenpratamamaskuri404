@@ -99,11 +99,6 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://visitcount.itsvg.in/api?id=ardenpratamamaskuri404&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## 📈 Contribution Activity
 
 <p align="center">
