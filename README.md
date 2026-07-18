@@ -109,7 +109,7 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 </td>
 <td>
-
+<h3>Random Quote</h3>  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 </td>
