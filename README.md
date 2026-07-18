@@ -98,3 +98,9 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ardenpratamamaskuri404/ardenpratamamaskuri404/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
