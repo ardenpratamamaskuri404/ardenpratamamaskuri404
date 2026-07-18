@@ -1,11 +1,11 @@
 <div align="center">
-  <video src="<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/f431e83a-c2a2-44de-8a1b-fd59734ba2f6" />" autoplay loop muted playsinline width="100%"></video>
+  <img src="https://media.tenor.com/4zM9iK4p75wAAAAC/solo-leveling-sung-jin-woo.gif" width="100%" alt="Anime Boy Banner">
   <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=Engineering+the+Future%2C+Always+Evolving.;Building+Scalable+Solutions.;Mastering+One+Line+at+a+Time." alt="Typing SVG" />
   </a>
 </div>
----
+
 
 **💫 About Me:**
 
