@@ -88,9 +88,7 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 <br>
 
-## 📊 GitHub Stats
-
-<table align="center">
+<table>
 <tr>
 <td align="center">
 
@@ -120,9 +118,9 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 <td align="center">
 
-### 📂 Repositories by Language
+### ✍️ Random Dev Quote
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardenpratamamaskuri404&theme=github_dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </td>
 </tr>
