@@ -5,10 +5,10 @@
        width="100%" />
 
   <br><br>
-
-  <img src="./github/neon-typing.svg"
-       alt="Neon Typing"
-       width="100%" />
+  
+<img src="./.github/neon-typing.svg"
+     alt="Neon Typing"
+     width="100%" />
 
 </div>
 
