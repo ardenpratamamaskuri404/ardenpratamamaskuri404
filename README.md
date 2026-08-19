@@ -25,7 +25,7 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 <br>
 
-###💻 Tech Stack
+### 💻 Tech Stack
 
 <div align="center">
 
