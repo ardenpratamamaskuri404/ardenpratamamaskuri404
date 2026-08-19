@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif" alt="Art Gift" width="100%" />
   <br>
   <a href="https://git.io/typing-svg">
@@ -37,7 +37,7 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 <br><br>
 
-<i>"The more I learn, the more I realize how much I don't know."</i>
+<i>"I'm not trying to be better than others. I'm trying to be better than I was yesterday."</i>
 
 </div>
 
@@ -103,10 +103,54 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 </details>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=false" />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</td>
+</tr>
+</table>
+
+</div>
+
+## 💭 Quotes
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<br>
+
+### “Don't compare your beginning to someone else's middle.”
+### “Keep building, keep learning, and let your progress speak for itself.”
+
+<br>
+
+**— Arden Pratama Maskuri**  
+*Keep moving forward.*
+
+<br>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🐍 Contribution Snake
 
