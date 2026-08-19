@@ -1,11 +1,22 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif" alt="Pixel Art" width="100%" />
+
+<img
+ src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif"
+ alt="Pixel Art"
+ width="100%"
+/>
+
   <br>
+
   <a href="https://git.io/typing-svg">
-   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&pause=2000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineering+Student.;Full-Stack+Developer.;Building+Solutions+That+Matter.;Always+Learning%2C+Always+Building." alt="Typing SVG" />
-</p>
+    <p align="center">
+      <img
+        src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&pause=2000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineering+Student.;Full-Stack+Developer.;Building+Solutions+That+Matter.;Always+Learning%2C+Always+Building."
+        alt="Typing SVG"
+      />
+    </p>
   </a>
+
 </div>
 
 **💫 About Me:**
@@ -30,7 +41,11 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 ### 💻 Tech Stacks:
 
 <div align="center">
-  <b>⚡ Main Stack</b><br><br>
+
+<b>⚡ Main Stack</b>
+
+<br><br>
+
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -42,22 +57,32 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Hono.js-%23E36002.svg?style=for-the-badge&logo=hono&logoColor=white" alt="Hono.js"/>
-  <br><br>
-  <i>"The more I learn, the more I realize how much I don't know."</i>
+
+<br><br>
+
+<i>"The more I learn, the more I realize how much I don't know."</i>
+
 </div>
 
 <br>
 
 <details>
-  <summary><b>🌐 Programming Languages</b></summary><br>
+  <summary><b>🌐 Programming Languages</b></summary>
+
+  <br>
+
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+
 </details>
 
 <details>
-  <summary><b>🎨 Frontend & Mobile Frameworks</b></summary><br>
+  <summary><b>🎨 Frontend & Mobile Frameworks</b></summary>
+
+  <br>
+
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vue.js-%2342b883.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
@@ -65,83 +90,147 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+
 </details>
 
 <details>
-  <summary><b>⚙️ Backend Frameworks</b></summary><br>
+  <summary><b>⚙️ Backend Frameworks</b></summary>
+
+  <br>
+
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Hono.js-%23E36002.svg?style=for-the-badge&logo=hono&logoColor=white" alt="Hono.js"/>
+
 </details>
 
 <details>
-  <summary><b>🗄️ Databases & ORMs</b></summary><br>
+  <summary><b>🗄️ Databases & ORMs</b></summary>
+
+  <br>
+
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
+
 </details>
 
 <details>
-  <summary><b>🚀 Deployment & Cloud Services</b></summary><br>
+  <summary><b>🚀 Deployment & Cloud Services</b></summary>
+
+  <br>
+
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
 </details>
 
 <details>
-  <summary><b>🔧 Development Tools</b></summary><br>
+  <summary><b>🔧 Development Tools</b></summary>
+
+  <br>
+
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+
 </details>
 
 <br>
 
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
 <table>
-<tr>
-<td align="center">
+  <tr>
 
-### 📈 GitHub Stats
+```
+<td align="center" width="50%">
 
-<img src="https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true" />
+  ### 📈 GitHub Stats
+
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true"
+    width="100%"
+    alt="GitHub Stats"
+  />
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
+
+  ### 💻 Most Used Languages
+
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true"
+    width="100%"
+    alt="Most Used Languages"
+  />
+
+</td>
+```
+
+  </tr>
+</table>
+
+<br>
+
+<!-- ==================== CONTRIBUTION STREAK ==================== -->
+
+<div align="center">
 
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=ardenpratamamaskuri404&theme=dark&hide_border=true" />
+  <br>
 
-</td>
-</tr>
+<img
+ src="https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+ width="95%"
+ alt="Contribution Streak"
+/>
 
-<tr>
-<td align="center">
+</div>
 
-### 💻 Most Used Languages
+<br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true" />
+<!-- ==================== RANDOM DEV QUOTE ==================== -->
 
-</td>
-
-<td align="center">
+<div align="center">
 
 ### ✍️ Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <br>
 
-</td>
-</tr>
-</table>
+<img
+ src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+ width="95%"
+ alt="Random Dev Quote"
+/>
+
+</div>
+
+<br>
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ardenpratamamaskuri404/ardenpratamamaskuri404/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<img
+ src="https://raw.githubusercontent.com/ardenpratamamaskuri404/ardenpratamamaskuri404/output/github-contribution-grid-snake-dark.svg"
+ alt="Snake animation"
+/>
+
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C6FB,100:005BEA&section=footer"/>
+
+<img
+ width="100%"
+ src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C6FB,100:005BEA&section=footer"
+ alt="Footer"
+/>
+
 </p>
