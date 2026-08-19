@@ -1,15 +1,5 @@
-<div align="center">
-
-  <img src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif"
-       alt="Art Gift"
-       width="100%" />
-
-  <br><br>
-  
-<img src="./.github/neon-typing.svg"
-     alt="Neon Typing"
-     width="100%" />
-
+<div align="center"> <img src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif" alt="Art Gift" width="100%" /> <br> <a href="https://git.io/typing-svg"> <p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&pause=2000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineering+Student.;Full-Stack+Developer.;Building+Solutions+That+Matter.;Always+Learning%2C+Always+Building." alt="Typing SVG" /> </p> </a> 
 </div>
 
 💫 About Me
