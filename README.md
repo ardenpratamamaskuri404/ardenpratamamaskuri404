@@ -1,49 +1,14 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif" alt="Art Gift" width="100%" />
+  <img src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif"
+       alt="Art Gift"
+       width="100%" />
 
-<br><br>
+  <br><br>
 
-  <svg width="100%" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
-
-```
-<defs>
-  <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
-    <feGaussianBlur stdDeviation="3" result="blur1"/>
-    <feGaussianBlur stdDeviation="8" result="blur2"/>
-    <feMerge>
-      <feMergeNode in="blur2"/>
-      <feMergeNode in="blur1"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
-
-  <linearGradient id="blueGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#00BFFF"/>
-    <stop offset="50%" stop-color="#66E6FF"/>
-    <stop offset="100%" stop-color="#0088FF"/>
-  </linearGradient>
-</defs>
-
-<text
-  x="50%"
-  y="52"
-  text-anchor="middle"
-  font-family="Inter, Arial, sans-serif"
-  font-size="34"
-  font-weight="800"
-  fill="url(#blueGlow)"
-  filter="url(#neon)">
-  Software Engineering Student.
-  <animate
-    attributeName="opacity"
-    values="1;0.75;1"
-    dur="1.8s"
-    repeatCount="indefinite"/>
-</text>
-```
-
-  </svg>
+  <img src="./neon-typing.svg"
+       alt="Neon Typing"
+       width="100%" />
 
 </div>
 
