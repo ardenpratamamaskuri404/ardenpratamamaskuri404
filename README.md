@@ -1,17 +1,17 @@
 <div align="center">
 
 <img
-src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif"
-alt="Pixel Art"
-width="100%"
-height="320"
+  src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif"
+  alt="Pixel Art"
+  width="100%"
+  height="300"
 />
 
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&pause=2000&color=3B82F6&center=true&vCenter=true&width=800&lines=Software+Engineering+Student.;Full-Stack+Developer.;Building+Solutions+That+Matter.;Always+Learning%2C+Always+Building."
-alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&pause=2000&color=3B82F6&center=true&vCenter=true&width=800&lines=Software+Engineering+Student.;Full-Stack+Developer.;Building+Solutions+That+Matter.;Always+Learning%2C+Always+Building."
+  alt="Typing SVG"
 />
 
 </div>
@@ -32,16 +32,16 @@ I don't just write syntax; I engineer scalable solutions that bring tangible val
 
 ## 🧠 Core Arsenal
 
-**Frontend**
+**Frontend**  
 React · Next.js · React Native · Expo · Vue.js · Astro.js · Tailwind CSS
 
-**Backend**
+**Backend**  
 Node.js · Express.js · Laravel · Hono.js · Prisma ORM · RESTful APIs
 
-**Database & Cloud**
+**Database & Cloud**  
 MySQL · PostgreSQL · Supabase
 
-**Languages**
+**Languages**  
 TypeScript · JavaScript · PHP · Go
 
 <br>
@@ -191,36 +191,38 @@ TypeScript · JavaScript · PHP · Go
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false"
-width="100%"
-alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false"
+  width="100%"
+  alt="GitHub Stats"
 />
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true&langs_count=6"
-width="100%"
-alt="Most Used Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true&langs_count=6"
+  width="100%"
+  alt="Most Used Languages"
+/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img
+  src="https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=true&locale=en"
+  width="100%"
+  alt="Contribution Streak"
 />
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<img
-src="https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=true&locale=en"
-width="70%"
-alt="Contribution Streak"
-/>
 
 </div>
 
@@ -231,9 +233,9 @@ alt="Contribution Streak"
 <div align="center">
 
 <img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-width="85%"
-alt="Random Dev Quote"
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+  width="90%"
+  alt="Random Dev Quote"
 />
 
 </div>
@@ -245,9 +247,9 @@ alt="Random Dev Quote"
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/ardenpratamamaskuri404/ardenpratamamaskuri404/output/github-contribution-grid-snake-dark.svg"
-width="85%"
-alt="Contribution Snake"
+  src="https://raw.githubusercontent.com/ardenpratamamaskuri404/ardenpratamamaskuri404/output/github-contribution-grid-snake-dark.svg"
+  width="90%"
+  alt="Contribution Snake"
 />
 
 </div>
@@ -257,9 +259,9 @@ alt="Contribution Snake"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00C6FB,100:005BEA&section=footer"
-width="100%"
-alt="Footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00C6FB,100:005BEA&section=footer"
+  width="100%"
+  alt="Footer"
 />
 
 </div>
