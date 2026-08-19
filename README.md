@@ -1,89 +1,4 @@
-<div align="center">
-
-<img
-  src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif"
-  alt="Pixel Art"
-  width="100%"
-/>
-
-<br>
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&pause=2000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineering+Student.;Full-Stack+Developer.;Building+Solutions+That+Matter.;Always+Learning%2C+Always+Building."
-    alt="Typing SVG"
-  />
-</a>
-
-</div>
-
-<br>
-
-## 💫 About Me
-
-Hi! I'm **Arden Pratama Maskuri**, a Software Engineering student at **SMK Taruna Bhakti**.
-
-I believe that in the world of technology, we are all lifelong students. Although I am still at the beginning of my journey and have a lot more to learn, I am deeply committed to mastering the craft of software development one line of code at a time.
-
-My passion lies in bridging the gap between intricate backend logic and intuitive frontend design. Through hands-on experience, I have built comprehensive full-stack applications ranging from real-time public complaint systems with interactive maps to cross-platform management platforms.
-
-I don't just write syntax; I engineer scalable solutions that bring tangible value to users. Constantly pushing my boundaries, I strive to transform complex challenges into functional, maintainable, and impactful digital products.
-
----
-
-## 🧠 Core Arsenal
-
-### 🎨 Frontend
-React · Next.js · React Native · Expo · Vue.js · Astro.js · Tailwind CSS
-
-### ⚙️ Backend
-Node.js · Express.js · Laravel · Hono.js · Prisma ORM · RESTful APIs
-
-### 🗄️ Database & Cloud
-MySQL · PostgreSQL · Supabase
-
-### 💻 Languages
-TypeScript · JavaScript · PHP · Go
-
----
-
-## 🌐 Socials
-
-<p align="left">
-
-<a href="https://www.instagram.com/dnprtmmskri/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/arden-pratama-maskuri-4049263b3/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://www.youtube.com/@dennothingmore" target="_blank">
-  <img
-    src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
-    alt="YouTube"
-  />
-</a>
-
-<a href="mailto:pratamaardenm24@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -105,11 +20,9 @@ TypeScript · JavaScript · PHP · Go
 
 <br><br>
 
-<i>"The more I learn, the more I realize how much I don't know."</i>
+<i>The more I learn, the more I realize how much I don't know.</i>
 
 </div>
-
----
 
 <details>
 <summary><b>🌐 Programming Languages</b></summary>
@@ -126,7 +39,7 @@ TypeScript · JavaScript · PHP · Go
 </details>
 
 <details>
-<summary><b>🎨 Frontend & Mobile Frameworks</b></summary>
+<summary><b>🎨 Frontend & Mobile</b></summary>
 
 <br>
 
@@ -143,7 +56,7 @@ TypeScript · JavaScript · PHP · Go
 </details>
 
 <details>
-<summary><b>⚙️ Backend Frameworks</b></summary>
+<summary><b>⚙️ Backend</b></summary>
 
 <br>
 
@@ -157,7 +70,7 @@ TypeScript · JavaScript · PHP · Go
 </details>
 
 <details>
-<summary><b>🗄️ Databases & ORMs</b></summary>
+<summary><b>🗄️ Databases & ORM</b></summary>
 
 <br>
 
@@ -170,7 +83,7 @@ TypeScript · JavaScript · PHP · Go
 </details>
 
 <details>
-<summary><b>🚀 Deployment & Cloud Services</b></summary>
+<summary><b>🚀 Cloud & Deployment</b></summary>
 
 <br>
 
@@ -197,79 +110,84 @@ TypeScript · JavaScript · PHP · Go
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
 <img
-  src="https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true"
-  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+  width="100%"
   alt="GitHub Stats"
 />
 
+</td>
+
+<td width="50%" align="center">
+
 <img
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true"
-  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true"
+  width="100%"
   alt="Most Used Languages"
 />
 
-</div>
+</td>
+</tr>
+</table>
 
-<br>
+</div>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-  width="95%"
-  alt="Contribution Streak"
+  src="https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=true"
+  width="90%"
+  alt="GitHub Contribution Streak"
 />
 
 </div>
 
-<br>
-
 ---
 
-# ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <div align="center">
 
 <img
   src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-  width="95%"
+  width="90%"
   alt="Random Dev Quote"
 />
 
 </div>
 
-<br>
-
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <img
   src="https://raw.githubusercontent.com/ardenpratamamaskuri404/ardenpratamamaskuri404/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake animation"
+  width="90%"
+  alt="Contribution Snake"
 />
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C6FB,100:005BEA&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00C6FB,100:005BEA&section=footer"
   width="100%"
   alt="Footer"
 />
