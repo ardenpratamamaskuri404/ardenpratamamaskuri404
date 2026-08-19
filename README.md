@@ -1,31 +1,80 @@
- <div align="center">
+<div align="center">
+
   <img src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif" alt="Art Gift" width="100%" />
-  <br>
-  <a href="https://git.io/typing-svg">
-   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&pause=2000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineering+Student.;Full-Stack+Developer.;Building+Solutions+That+Matter.;Always+Learning%2C+Always+Building." alt="Typing SVG" />
-</p>
-  </a>
+
+<br><br>
+
+  <svg width="100%" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
+
+```
+<defs>
+  <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur1"/>
+    <feGaussianBlur stdDeviation="8" result="blur2"/>
+    <feMerge>
+      <feMergeNode in="blur2"/>
+      <feMergeNode in="blur1"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <linearGradient id="blueGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00BFFF"/>
+    <stop offset="50%" stop-color="#66E6FF"/>
+    <stop offset="100%" stop-color="#0088FF"/>
+  </linearGradient>
+</defs>
+
+<text
+  x="50%"
+  y="52"
+  text-anchor="middle"
+  font-family="Inter, Arial, sans-serif"
+  font-size="34"
+  font-weight="800"
+  fill="url(#blueGlow)"
+  filter="url(#neon)">
+  Software Engineering Student.
+  <animate
+    attributeName="opacity"
+    values="1;0.75;1"
+    dur="1.8s"
+    repeatCount="indefinite"/>
+</text>
+```
+
+  </svg>
+
 </div>
 
-**💫 About Me:**
+💫 About Me
 
-Hi! I'm **Arden Pratama Maskuri**, a Software Engineering student at **SMK Taruna Bhakti**. I believe that in the world of technology, we are all lifelong students. Although I am still at the beginning of my journey and have a lot more to learn, I am deeply committed to mastering the craft of software development one line of code at a time.
+Hi! I'm Arden Pratama Maskuri, a Software Engineering student at SMK Taruna Bhakti with a strong passion for building modern, scalable, and user-focused software.
 
-My passion lies in bridging the gap between intricate backend logic and intuitive frontend design. Through hands-on experience, I have successfully built comprehensive full-stack applications—ranging from real-time public complaint systems with interactive maps to seamless cross-platform management platforms. I don't just write syntax; I engineer scalable solutions that bring tangible value to users. Constantly pushing my boundaries, I strive to transform complex challenges into functional, maintainable, and impactful digital products.
+I'm continuously learning and growing through hands-on development, exploring everything from backend architecture and API design to modern frontend interfaces and cross-platform applications. I enjoy turning ideas and complex problems into practical digital solutions that are reliable, maintainable, and meaningful to users.
 
-**Core Arsenal**
-* **Frontend:** React, Next.js, React Native (Expo), Tailwind CSS
-* **Backend:** Node.js, Express.js, Prisma ORM, RESTful APIs
-* **Database & Cloud:** MySQL, PostgreSQL, Supabase
-* **Languages:** TypeScript, JavaScript, Go, PHP
+My experience includes building full-stack applications, real-time systems, interactive map-based platforms, and cross-platform applications. I believe great software is not only about writing clean code, but also about understanding the problem, designing the right solution, and continuously improving along the way.
+
+"I'm not trying to be better than others. I'm trying to be better than I was yesterday."
+
+🛠️ Technical Focus
+Frontend: React, Next.js, React Native (Expo), Tailwind CSS
+Backend: Node.js, Express.js, Prisma ORM, RESTful APIs
+Database & Cloud: MySQL, PostgreSQL, Supabase
+Languages: TypeScript, JavaScript, Go, PHP
+🎯 Currently Focused On
+Building scalable full-stack applications
+Improving backend architecture & API design
+Exploring modern web technologies
+Writing clean, maintainable, and production-ready code
+Continuously learning and turning ideas into real-world projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dnprtmmskri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arden-pratama-maskuri-4049263b3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@dennothingmore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratamaardenm24@gmail.com) 
 
 <br>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -170,7 +219,6 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 <br>
 
 **— Arden Pratama Maskuri**  
-*Keep moving forward.*
 
 <br>
 
