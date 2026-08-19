@@ -6,7 +6,7 @@
 
   <br><br>
 
-  <img src="./neon-typing.svg"
+  <img src="./github/neon-typing.svg"
        alt="Neon Typing"
        width="100%" />
 
