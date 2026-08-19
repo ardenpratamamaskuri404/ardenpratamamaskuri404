@@ -103,39 +103,12 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 </details>
 
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true" />
-
-</td>
-
-<td align="center">
-
-### 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=ardenpratamamaskuri404&theme=dark&hide_border=true" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true" />
-
-</td>
-
-<td align="center">
-
-### ✍️ Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</td>
-</tr>
-</table>
+# 💻 Tech Stack:
+![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ardenpratamamaskuri404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ardenpratamamaskuri404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐍 Contribution Snake
 
