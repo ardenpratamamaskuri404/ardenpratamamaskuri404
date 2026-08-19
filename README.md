@@ -4,16 +4,15 @@
 src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif"
 alt="Pixel Art"
 width="100%"
+height="320"
 />
 
 <br><br>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=22&pause=2000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineering+Student.;Full-Stack+Developer.;Building+Solutions+That+Matter.;Always+Learning%2C+Always+Building."
-    alt="Typing SVG"
-  />
-</a>
+<img
+src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&pause=2000&color=3B82F6&center=true&vCenter=true&width=800&lines=Software+Engineering+Student.;Full-Stack+Developer.;Building+Solutions+That+Matter.;Always+Learning%2C+Always+Building."
+alt="Typing SVG"
+/>
 
 </div>
 
@@ -29,7 +28,7 @@ My passion lies in bridging the gap between intricate backend logic and intuitiv
 
 I don't just write syntax; I engineer scalable solutions that bring tangible value to users. Constantly pushing my boundaries, I strive to transform complex challenges into functional, maintainable, and impactful digital products.
 
----
+<br>
 
 ## 🧠 Core Arsenal
 
@@ -45,43 +44,31 @@ MySQL · PostgreSQL · Supabase
 **Languages**
 TypeScript · JavaScript · PHP · Go
 
----
+<br>
 
 ## 🌐 Socials
 
 <div align="left">
 
 <a href="https://www.instagram.com/dnprtmmskri/">
-  <img
-    src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-    alt="Instagram"
-  />
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://www.linkedin.com/in/arden-pratama-maskuri-4049263b3/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.youtube.com/@dennothingmore">
-  <img
-    src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
-    alt="YouTube"
-  />
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
 </a>
 
 <a href="mailto:pratamaardenm24@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
----
+<br>
 
 ## 💻 Tech Stack
 
@@ -105,7 +92,7 @@ TypeScript · JavaScript · PHP · Go
 
 <br><br>
 
-<i>"The more I learn, the more I realize how much I don't know."</i>
+<i>The more I learn, the more I realize how much I don't know.</i>
 
 </div>
 
@@ -195,7 +182,7 @@ TypeScript · JavaScript · PHP · Go
 
 </details>
 
----
+<br>
 
 ## 📊 GitHub Statistics
 
@@ -204,20 +191,20 @@ TypeScript · JavaScript · PHP · Go
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=ardenpratamamaskuri404&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false"
 width="100%"
 alt="GitHub Stats"
 />
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardenpratamamaskuri404&layout=compact&theme=dark&hide_border=true&langs_count=6"
 width="100%"
 alt="Most Used Languages"
 />
@@ -227,23 +214,17 @@ alt="Most Used Languages"
 </tr>
 </table>
 
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
+<br>
 
 <img
-src="https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=true"
-width="90%"
-alt="GitHub Contribution Streak"
+src="https://streak-stats.demolab.com/?user=ardenpratamamaskuri404&theme=dark&hide_border=true&locale=en"
+width="70%"
+alt="Contribution Streak"
 />
 
 </div>
 
----
+<br>
 
 ## ✍️ Random Dev Quote
 
@@ -251,13 +232,13 @@ alt="GitHub Contribution Streak"
 
 <img
 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-width="90%"
+width="85%"
 alt="Random Dev Quote"
 />
 
 </div>
 
----
+<br>
 
 ## 🐍 Contribution Snake
 
@@ -265,13 +246,13 @@ alt="Random Dev Quote"
 
 <img
 src="https://raw.githubusercontent.com/ardenpratamamaskuri404/ardenpratamamaskuri404/output/github-contribution-grid-snake-dark.svg"
-width="90%"
-alt="GitHub Contribution Snake"
+width="85%"
+alt="Contribution Snake"
 />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
